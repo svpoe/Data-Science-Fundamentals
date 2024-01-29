@@ -1,0 +1,9 @@
+Prompt: A friend presents you with a coin they claim to be fair. 
+You flip the coin 5 times and it lands on Heads every single time. 
+You flip the coin another 5 times, same result. How many times must this happen 
+for you to start doubting the fairness of the coin? Explain your reasoning a bit.
+
+Anwser: I would be skeptical on the fourth time it lands on heads, but I would question it more on the fifth simply because 
+there is a ~3% chance of getting heads 5 times. 0.5*0.5*0.5*0.5*0.5 = 0.03125. 
+If this were to continue with the second round, I would be quite convinced the coin is 
+rigged by the second heads.
